@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+#container{
+    margin: 2em auto;
+    padding: 0 2.5em 2em ;
+    max-width: fit-content;
+    border-radius: 40px;
+    border: 5px solid #4184f3;
+    background-color: aliceblue;
+}
+header{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    margin: 1.5em 0;
+}
+table{
+    margin:auto;
+    border-collapse: collapse;
+    background-color: white;
+}
+td{
+    border: 5px solid black;
+    width:5em;
+    height: 5em;
+}
+#chart{
+    color:white;
+    margin: 2em auto 0;
+    font-size: x-large;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    width:fit-content;
+    padding: 25px 40px;
+    background-color: #4184f3;
+    border-radius: 10px;  
+}
